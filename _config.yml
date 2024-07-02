@@ -23,9 +23,9 @@ navbar-links:
   Research: "research"
   Teaching: "teaching"
   About Me: "aboutme"
-  Resources: "resources"
-    - HETDEX: "https://https://hetdex.org"
-  Home: "/"
+ # Resources: "resources"
+  #  - HETDEX: "https://https://hetdex.org"
+ # Home: "/"
 
 ################
 # --- Logo --- #
