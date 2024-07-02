@@ -20,12 +20,12 @@ author: Laurel Weiss
 ###############################################
 
 navbar-links:
-  Research: 
-  Teaching:
-  Resources:
+#  Research: 
+#  Teaching:
+#  Resources:
   About Me: "aboutme"
-  Resources:
-    - HETDEX: "https://https://hetdex.org"
+#  Resources:
+#    - HETDEX: "https://https://hetdex.org"
 
 ################
 # --- Logo --- #
