@@ -27,8 +27,8 @@ navbar-links:
   Teaching: "teaching"
   About Me: "aboutme"
   Resources: "resources"
-    - HETDEX: "http://hetdex.org"
- # Home: "/"
+  #  - HETDEX: "http://hetdex.org"
+  Home: "/"
 
 ################
 # --- Logo --- #
