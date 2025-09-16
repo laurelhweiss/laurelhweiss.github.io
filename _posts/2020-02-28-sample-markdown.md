@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Welcome to my website!
-subtitle: Go check out my research and teaching tabs!
+title: Markdown Template
+subtitle: this is a subtitle!
 ---
 
-## Oh! You're still here! In that case...
+## Header 2
 
 [This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
 
