@@ -25,9 +25,9 @@ author: Laurel Weiss
 navbar-links:
   Research: "research"
   Teaching: "teaching"
-  About Me: "aboutme"
   Resources: 
     - HETDEX: "http://hetdex.org"
+    - CV: "/assets/img/cv.pdf"
   Home: "/"
 
 ################
