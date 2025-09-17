@@ -14,6 +14,6 @@ Fostering is an incredibly rewarding experience! Whether you are on the fence ab
 
 In case you need more convincing, here are some before and afters of the medical fosters I've hosted!
 
-![Pets](https://beautifuljekyll.com/assets/img/pets.jpg){: .mx-auto.d-block :}
+![Pets](/assets/img/pets.jpg){: .mx-auto.d-block :}
 
 Ok, PSA over, back to the regularly scheduled website.
