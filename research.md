@@ -14,6 +14,8 @@ A Strange Signal
 
 My first couple years in graduate school were spent investigating a puzzling signal found in many of the HETDEX spectra. While not visible in a single spectrum, this signal became apparent in large stacks of data. Around the Lyman alpha emission line were absorption "troughs", which we at first believed to be unphysical, due to the fact that they were negative. This signal was _only_ present in spectra of LAEs, and was not found in the spectra of stars or other types of galaxies. After a variety of testing, we could not find the potential problem(s), so we were faced with the question: "Is there even a problem?"
 
+![stack](/assets/img/hpsc_stack.png){: .mx-auto.d-block :}
+
 Paiting a Picture
 
 If the signal is real, we needed to develop a model to explain it. Noting the signal's similarity to that of a Damped Lyman Alpha System, we developed the following phenomenological model: [background light from faint galaxies gets absorbed by neutral hydrogen in the halo of the LAE](https://iopscience.iop.org/article/10.3847/1538-4357/ad1b51/pdf). This absorption well superimposed with the spectrum of the foreground LAE produces the shape of the troughs. When the "sky" is subtracted from HETDEX spectra, this background light is subtracted with it, creating the negative absorption (see graphic).
