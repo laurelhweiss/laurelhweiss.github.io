@@ -18,10 +18,12 @@ My first couple years in graduate school were spent investigating a puzzling sig
 
 Paiting a Picture
 
-If the signal is real, we needed to develop a model to explain it. Noting the signal's similarity to that of a Damped Lyman Alpha System, we developed the following phenomenological model: [background light from faint galaxies gets absorbed by neutral hydrogen in the halo of the LAE](https://iopscience.iop.org/article/10.3847/1538-4357/ad1b51/pdf). This absorption well superimposed with the spectrum of the foreground LAE produces the shape of the troughs. When the "sky" is subtracted from HETDEX spectra, this background light is subtracted with it, creating the negative absorption (see graphic).
+If the signal is real, we needed to develop a model to explain it. Noting the signal's similarity to that of a Damped Lyman Alpha System, we developed the following phenomenological model: [background light from faint galaxies gets absorbed by neutral hydrogen in the halo of the LAE](https://iopscience.iop.org/article/10.3847/1538-4357/ad1b51/pdf). This absorption well superimposed with the spectrum of the foreground LAE produces the shape of the troughs. When the "sky" is subtracted from HETDEX spectra, this background light is subtracted with it, creating the negative absorption (see graphic blelow).
+
+![graphic](/assets/img/graphic.png){: .mx-auto.d-block :}
 
 We then noticed that the absorption signal strengthens in galaxies that reside in overdense regions of the sky. More background galaxies &rarr; more background light &rarr; more negative absorption. Essentially, while the negative troughs themselves are unphysical, they reflect a unique physical phenomenon. 
 
 The "background light" that gets absorbed is not trivial either. Extragalactic background light (EBL, and its ultraviolet component, the UVB) is essentially for keeping the intergalactic medium at z~2–3 ionized, when galaxies were rapidly forming. [The absorption troughs in HETDEX provide a unique opportunity for measuring the intensity and variability of this light across the sky](https://iopscience.iop.org/article/10.3847/1538-4357/adc0f9/pdf). 
 
-
+![ebl](/assets/img/ebl_studies.png){: .mx-auto.d-block :}
