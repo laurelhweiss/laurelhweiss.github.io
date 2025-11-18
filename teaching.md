@@ -13,7 +13,7 @@ I have enjoyed designing this course alongside Steven Finkelstein and the LAITS 
 Are you a UT student looking for a science credit? Sign up for AST301 [here](https://services.laits.utexas.edu/online-courses/spring/)!
 
 
-![stack](/assets/img/steve.png){: .mx-auto.d-block :}
-![stack](/assets/img/laurel.png){: .mx-auto.d-block :}
-![stack](/assets/img/laurelandsteve){: .mx-auto.d-block :}
+![steve](/assets/img/steve.png){: .mx-auto.d-block :}
+![laurel](/assets/img/laurel.png){: .mx-auto.d-block :}
+![laurelandsteve](/assets/img/laurelandsteve){: .mx-auto.d-block :}
 
