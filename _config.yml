@@ -22,7 +22,7 @@ author: Laurel Weiss
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
+navbar-links: 
   Home: "/"
   Research: "research"
   Teaching: "teaching"
