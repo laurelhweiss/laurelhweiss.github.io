@@ -15,5 +15,5 @@ Are you a UT student looking for a science credit? Sign up for AST301 [here](htt
 
 ![steve](/assets/img/steve.png){: .mx-auto.d-block :}
 ![laurel](/assets/img/laurel.png){: .mx-auto.d-block :}
-![laurelandsteve](/assets/img/laurelandsteve){: .mx-auto.d-block :}
+![laurelandsteve](/assets/img/laurelandsteve.png){: .mx-auto.d-block :}
 
