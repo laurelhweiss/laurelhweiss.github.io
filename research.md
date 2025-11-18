@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-subtitle: My research 
+subtitle:  
 ---
 
 **For the Love of Lyman Alpha**
