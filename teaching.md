@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-subtitle: 
+subtitle:  
 ---
 
 During my time at UT Austin as a graduate student, I have been a teaching assistant/assistant instructor for a variety of courses from stellar evolution to research methods. However, the last few semesters I have fallen in love with teaching introductory astronomy. I have found that general astronomy courses act as "bridges" between public astronomy communication and formal astronomy education. 
