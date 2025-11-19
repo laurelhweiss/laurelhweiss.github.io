@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-subtitle:  
+subtitle:   
 --- 
 
 **For the Love of Lyman Alpha**
