@@ -8,7 +8,7 @@ subtitle: Go check out my research and teaching tabs!
 
 Have you considered fostering with your local animal shelter? Animal shelters are almost always over capacity, and fosters are desperately needed!
 
-Two great shelters in the Austin Area are [Austin Pets Alive!](https://www.austinpetsalive.org/) and [Austin Animal Center](https://www.austintexas.gov/austin-animal-center).
+Two great shelters in the Austin area are [Austin Pets Alive!](https://www.austinpetsalive.org/) and [Austin Animal Center](https://www.austintexas.gov/austin-animal-center).
 
 Fostering is an incredibly rewarding experience! Whether you are on the fence about adopting a pet or just want some short term company, fostering is easier than you think. Shelters provide the medical care and supplies, while all a foster parent needs to give is a temporary home and lots of love. Providing a safe space to heal and grow makes a massive difference in a pet's life and their potential to be adopted.
 
